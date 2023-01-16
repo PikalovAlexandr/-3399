@@ -1,0 +1,1198 @@
+(kicad_symbol_lib (version 20220331) (generator kicad_symbol_editor)
+  (symbol "SDMMC0_VDDPST" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "SDMMC0_VDDPST" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"SDMMC0_VDDPST\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "SDMMC0_VDDPST_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "SDMMC0_VDDPST_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC1V8_DVP" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC1V8_DVP" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC1V8_DVP\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC1V8_DVP_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC1V8_DVP_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC1V8_HDMI" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -2.54 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC1V8_HDMI" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC1V8_HDMI\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC1V8_HDMI_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC1V8_HDMI_1_1"
+      (pin power_in line (at 0 0 180) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC3V3_LAN" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC3V3_LAN" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC3V3_LAN\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC3V3_LAN_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC3V3_LAN_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCA0V9_HDMI" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCA0V9_HDMI" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCCA0V9_HDMI\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCA0V9_HDMI_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCA0V9_HDMI_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCA1V8_HDMI" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCA1V8_HDMI" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCCA1V8_HDMI\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCA1V8_HDMI_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCA1V8_HDMI_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCA_0V9" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCA_0V9" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCCA_0V9\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCA_0V9_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCA_0V9_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCA_0V9_1" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCA_0V9_1" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCCA_0V9\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCA_0V9_1_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCA_0V9_1_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCA_1V8" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCA_1V8" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCCA_1V8\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCA_1V8_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCA_1V8_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCCIO_SD" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCCIO_SD" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC\"_IO_SD" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCCIO_SD_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCCIO_SD_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_0V9" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_0V9" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC_0V9\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_0V9_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_0V9_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_1V5" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_1V5" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC_1V5\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_1V5_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_1V5_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_1V8" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_1V8" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC_1V8" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_1V8_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_1V8_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_1V8_EFUSE" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_1V8_EFUSE" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC_1V8_EFUSE\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_1V8_EFUSE_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_1V8_EFUSE_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_3V0" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_3V0" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC_3V0\"" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_3V0_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_3V0_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_DDR" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_DDR" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC\"_DDR" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_DDR_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_DDR_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_DDR0_CLK" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_DDR0_CLK" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC\"_DDR0_CLK" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_DDR0_CLK_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_DDR0_CLK_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VCC_DDR1_CLK" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VCC_DDR1_CLK" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VCC\"_DDR1_CLK" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VCC_DDR1_CLK_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VCC_DDR1_CLK_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_CENTER" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VDD_CENTER" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VDD\"_CENTER" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VDD_CENTER_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_CENTER_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_CPU_B" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VDD_CPU_B" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VDD\"_CPU_B" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VDD_CPU_B_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_CPU_B_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_CPU_L" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VDD_CPU_L" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VDD\"_CPU_L" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VDD_CPU_L_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_CPU_L_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_GPU" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VDD_GPU" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VDD\"_GPU" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VDD_GPU_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_GPU_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+  (symbol "VDD_LOG" (power) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "#PWR" (id 0) (at 5.08 -3.81 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Value" "VDD_LOG" (id 1) (at 0 3.81 0)      (effects (font (size 1.27 1.27)))
+    
+)
+    (property "Footprint" "" (id 2) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "Datasheet" "" (id 3) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (property "ki_description" "Power symbol creates a global label with name \"VDD\"_LOG" (id 5) (at 0 0 0)      (effects (font (size 1.27 1.27)) hide)
+    
+)
+    (symbol "VDD_LOG_0_1"
+      (polyline
+        (pts
+          (xy -0.762 1.27)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 0)
+          (xy 0 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 2.54)
+          (xy 0.762 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "VDD_LOG_1_1"
+      (pin power_in line (at 0 0 90) (length 0) hide
+        (name "VCC_DDR" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+)

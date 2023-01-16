@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS4C128M16MD4-062BAN
+D DRAM SDRAM - LPDDR4
+K
+F https://www.mouser.com/datasheet/2/12/AllianceMemory_LPDDR4_2G_4G_8Gx16bitx32bit1600MHZ_-1893500.pdf
+$ENDCMP
+#
+#End Doc Library

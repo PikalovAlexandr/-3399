@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ES8316
+D Low Power Audio CODEC
+K
+F http://www.everest-semi.com/pdf/ES8316%20PB.pdf
+$ENDCMP
+#
+#End Doc Library

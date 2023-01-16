@@ -1,0 +1,9 @@
+Manufacturer=Rockchip
+PartNumber=RK808-D
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=69
+Version=1.1
+Released=2019-05-29 10:20:11
+Downloaded=2022-09-17 22:25:25
+3D=Y

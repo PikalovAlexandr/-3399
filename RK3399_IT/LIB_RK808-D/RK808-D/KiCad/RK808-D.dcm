@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK808-D
+D http://rockchip.fr/RK808%20datasheet%20V1.4.pdf
+K
+F http://rockchip.fr/RK808%20datasheet%20V1.4.pdf
+$ENDCMP
+#
+#End Doc Library

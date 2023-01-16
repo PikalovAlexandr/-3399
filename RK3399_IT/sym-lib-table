@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "RK3399")(type "KiCad")(uri "/media/alexandr/91B9-ADF7/RK3399/RK3399/RK3399.kicad_sym")(options "")(descr ""))
+  (lib (name "power_RK3399")(type "KiCad")(uri "${KIPRJMOD}/power_RK3399.kicad_sym")(options "")(descr ""))
+  (lib (name "RK3399_1")(type "KiCad")(uri "${KIPRJMOD}/RK3399_1.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-24.000MHZ-R60-D1W-T3")(type "KiCad")(uri "${KIPRJMOD}/ABM8-24.000MHZ-R60-D1W-T3/ABM8-24.000MHZ-R60-D1W-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "MT53B256M32D1GZ-062_AIT_B")(type "KiCad")(uri "${KIPRJMOD}/MT53B256M32D1GZ-062_AIT_B/MT53B256M32D1GZ-062_AIT_B.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "/media/alexandr/91B9-ADF7/RK3588/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)

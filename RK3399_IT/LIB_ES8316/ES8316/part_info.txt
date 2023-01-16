@@ -1,0 +1,9 @@
+Manufacturer=Everest
+PartNumber=ES8316
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2020-05-12 05:22:29
+Downloaded=2022-09-17 22:29:02
+3D=Y

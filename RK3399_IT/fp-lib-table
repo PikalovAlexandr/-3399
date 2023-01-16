@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Package_TO_SOT_SMD")(type "KiCad")(uri "/media/alexandr/91B9-ADF7/RK3399/kicad project/Package_TO_SOT_SMD.pretty")(options "")(descr ""))
+  (lib (name "ABM8-24")(type "KiCad")(uri "${KIPRJMOD}/ABM8-24.000MHZ-R60-D1W-T3")(options "")(descr ""))
+  (lib (name "DIODFN2_98X58X50L26X51N")(type "KiCad")(uri "/media/alexandr/91B9-ADF7/RK3399/kicad project/DIODFN2_98X58X50L26X51N")(options "")(descr ""))
+)
